@@ -7,9 +7,9 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "VAJIRA-MD=CBsgBaRB#hmX13XJj4MfmcdYCLBrsX0-Wom1g8SDEjYDFBObsPk4",
+            "description": "VAJIRA-MD=TdFViSzY#mYGrt2vUwDehNyfQYa5OcgRue1jWyFYMV3pHK2KqjYw",
             "required": true,
-            "value": "VAJIRA-MD=CBsgBaRB#hmX13XJj4MfmcdYCLBrsX0-Wom1g8SDEjYDFBObsPk4"
+            "value": "VAJIRA-MD=TdFViSzY#mYGrt2vUwDehNyfQYa5OcgRue1jWyFYMV3pHK2KqjYw"
         },
     "COMMAND_TYPE": {
             "description": "Put correct spelling button or nonbutton here to change mode / මෙයට button හෝ nonbutton ලෙස නිවැරදිව නොවරදවා දමන්න",
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
             "description": "Put your number here",
             "required": true,
-            "value": "94713457207"
+            "value": "94713520744"
 }
 
     },
